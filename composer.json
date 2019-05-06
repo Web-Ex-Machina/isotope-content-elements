@@ -17,7 +17,7 @@
         "source":"https://github.com/web-ex-machina/isotope-content-elements"
     },
     "require": {
-        "isotope/core": "^2.5"
+        "isotope/isotope-core": "^2.5",
     },
     "autoload":{
         "psr-4": {
